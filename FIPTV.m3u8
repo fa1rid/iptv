@@ -1,0 +1,27 @@
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NatGeoWild.us.png", NAT GEO WILD
+https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e7hAwqM.png" group-title="DOCUMENTARY", NAT GEO
+https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/tlc-hd-world-large.jpg", TLC(ASIA)
+https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.outdoorchannel.com/network/img/odc/logo.png", Outdoor Channel(ASIA)
+https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydsh330j/images-7.png", Blue Ant ENTERTAINMENT
+http://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/chLWFqA.png", Blue Ant EXTREME
+http://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png", Animal Planet(ASIA)
+https://feed.play.mv/live/10005200/WG2gcEPjHK/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NatGeoWild.us.png", NAT GEO WILD
+#EXTINF:-1  tvg-name="Nat Geo WILD Asia"
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png", Animal Planet
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8  
