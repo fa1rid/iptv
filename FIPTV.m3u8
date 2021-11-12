@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/NatGeoWild.us.png", NAT GEO WILD
 https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e7hAwqM.png" group-title="DOCUMENTARY", NAT GEO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e7hAwqM.png", NAT GEO
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/tlc-hd-world-large.jpg", TLC(ASIA)
