@@ -21,6 +21,10 @@ http://58.65.171.202:8000/play/10509/index.m3u8
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 #EXTVLCOPT:http-user-agent="FIPTV"
+#EXTINF:-1 tvg-logo="https://ar.wikipedia.org/wiki/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%B3%D9%88%D8%B1%D9%8A%D8%A7#/media/%D9%85%D9%84%D9%81:%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%B3%D9%88%D8%B1%D9%8A%D8%A7.jpg",Syria TV (Turkey)
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
+
+#EXTVLCOPT:http-user-agent="FIPTV"
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/tlc-hd-world-large.jpg", TLC(ASIA)
 https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
 
