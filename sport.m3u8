@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTVLCOPT:http-user-agent="Android"
+#EXTINF:-1, Sport TV 1
+http://stream.tvtap.live:8081/live/pt-sporttv1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIyIDM6NDI6MTQgUE0maGFzaF92YWx1ZT1qNkJncDNzZXprTm9iV3Y5MUxrN0hBPT0mdmFsaWRtaW51dGVzPTIw
+
 #EXTVLCOPT:http-user-agent="ayavip"
 #EXTINF:-1, beIN Premium 1
 https://mixflixnoda.xyz/ayatvpro/ayavipapp/2
