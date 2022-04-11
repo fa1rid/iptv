@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,beIN SPORTS PREMIUM1 SD
+http://tv.allkaicerteam.com:8080/Kaicer_VIPkHBHeJ/nTsz7k/56
+
 #EXTVLCOPT:http-user-agent="Android"
 #EXTINF:-1, Sport TV 1
 http://stream.tvtap.live:8081/live/pt-sporttv1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIyIDM6NDI6MTQgUE0maGFzaF92YWx1ZT1qNkJncDNzZXprTm9iV3Y5MUxrN0hBPT0mdmFsaWRtaW51dGVzPTIw
