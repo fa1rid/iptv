@@ -1,60 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1,beIN SPORTS PREMIUM1 SD
-http://tv.allkaicerteam.com:8080/Kaicer_VIPkHBHeJ/nTsz7k/56
+#EXTVLCOPT:http-user-agent=""
+#EXTINF:-1, TSN
+https://griomreavigremant654.s3.amazonaws.com/redzone_720p60.m3u8
 
-#EXTVLCOPT:http-user-agent="Android"
-#EXTINF:-1, Sport TV 1
-http://stream.tvtap.live:8081/live/pt-sporttv1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIyIDM6NDI6MTQgUE0maGFzaF92YWx1ZT1qNkJncDNzZXprTm9iV3Y5MUxrN0hBPT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTVLCOPT:http-user-agent="ayavip"
-#EXTINF:-1, beIN Premium 1
-https://mixflixnoda.xyz/ayatvpro/ayavipapp/2
-
-#EXTVLCOPT:http-user-agent="ayavip"
-#EXTINF:-1, beIN Premium 2
-https://mixflixnoda.xyz/ayatvpro/ayavipapp/3
-
-#EXTVLCOPT:http-user-agent="ayavip"
-#EXTINF:-1, beIN Premium 3 (1080p 50fps)
-https://mixflixnoda.xyz/ayatvpro/ayavipapp/4
-
-#EXTVLCOPT:http-user-agent="ayavip"
-#EXTINF:-1, beIN 1
-https://mixflixnoda.xyz/ayatvpro/ayavipapp/12
-
-#EXTVLCOPT:http-user-agent="ayavip"
-#EXTINF:-1, beIN 1
-https://mixflixnoda.xyz/ayatvpro/ayavipapp/5
-
-#EXTVLCOPT:http-user-agent="ayavip"
-#EXTINF:-1, beIN 2
-https://mixflixnoda.xyz/ayatvpro/ayavipapp/6
-
-#EXTVLCOPT:http-user-agent="ayavip"
-#EXTINF:-1, beIN 3
-https://mixflixnoda.xyz/ayatvpro/ayavipapp/7
-
-#EXTVLCOPT:http-user-agent="ayavip"
-#EXTINF:-1, beIN 4
-https://mixflixnoda.xyz/ayatvpro/ayavipapp/8
-
-#EXTVLCOPT:http-user-agent="ayavip"
-#EXTINF:-1, beIN 5
-https://mixflixnoda.xyz/ayatvpro/ayavipapp/9
-
-#EXTVLCOPT:http-user-agent="ayavip"
-#EXTINF:-1, beIN 6 (1080p 50fps)
-https://mixflixnoda.xyz/ayatvpro/ayavipapp/10
-
-#EXTVLCOPT:http-user-agent="ayavip"
-#EXTINF:-1, beIN 7
-https://mixflixnoda.xyz/ayatvpro/ayavipapp/11
 
 #EXTVLCOPT:http-user-agent="app"
 #EXTINF:-1, beIN XTRA English
 https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
-
-#EXTVLCOPT:http-user-agent="ayavip"
-#EXTINF:-1, beIN News
-https://mixflixnoda.xyz/ayatvpro/ayavipapp/13
