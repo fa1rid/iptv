@@ -34,7 +34,7 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent="FIPTV"
-#EXTINF:-1 tvg-logo="https://ar.wikipedia.org/wiki/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%B3%D9%88%D8%B1%D9%8A%D8%A7#/media/%D9%85%D9%84%D9%81:%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%B3%D9%88%D8%B1%D9%8A%D8%A7.jpg",Syria TV (Turkey)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/6/69/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%B3%D9%88%D8%B1%D9%8A%D8%A7.svg/420px-%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%B3%D9%88%D8%B1%D9%8A%D8%A7.svg.png",Syria TV (Turkey)
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_source/chunks_dvr.m3u8
 
 #EXTINF:-1 tvg-id="DWArabic.de" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/A1xzjOI.png" ,DW Arabic (1080p)
