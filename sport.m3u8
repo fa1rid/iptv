@@ -1,10 +1,53 @@
 #EXTM3U
-
-#EXTVLCOPT:http-user-agent=""
-#EXTINF:-1, TSN
-https://griomreavigremant654.s3.amazonaws.com/redzone_720p60.m3u8
-
-
-#EXTVLCOPT:http-user-agent="app"
-#EXTINF:-1, beIN XTRA English
-https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
+#EXTINF:-1,Fox Sports 1
+http://192.168.10.17:9991/ch1/
+#EXTINF:-1,Fox Sports 2
+http://192.168.10.17:9991/ch2/
+#EXTINF:-1,ESPN
+http://192.168.10.17:9991/ch3/
+#EXTINF:-1,ESPN 2
+http://192.168.10.17:9991/ch4/
+#EXTINF:-1,Fubo Sports
+http://192.168.10.17:9991/ch5/
+#EXTINF:-1,Sky Sports Main Event
+http://192.168.10.17:9991/ch6/
+#EXTINF:-1,Sky Sports Football
+http://192.168.10.17:9991/ch7/
+#EXTINF:-1,Sky Sports F1
+http://192.168.10.17:9991/ch8/
+#EXTINF:-1,Sky Sports Cricket
+http://192.168.10.17:9991/ch9/
+#EXTINF:-1,Sky Sports Arena
+http://192.168.10.17:9991/ch10/
+#EXTINF:-1,TNT Sports 1
+http://192.168.10.17:9991/ch11/
+#EXTINF:-1,TNT Sports 2
+http://192.168.10.17:9991/ch12/
+#EXTINF:-1,TNT Sports 3
+http://192.168.10.17:9991/ch13/
+#EXTINF:-1,TNT Sports 4
+http://192.168.10.17:9991/ch14/
+#EXTINF:-1,Eurosport
+http://192.168.10.17:9991/ch15/
+#EXTINF:-1,TSN Sport 1 HD
+http://192.168.10.17:9991/ch16/
+#EXTINF:-1,TSN Sport 2 HD
+http://192.168.10.17:9991/ch17/
+#EXTINF:-1,NBA TV
+http://192.168.10.17:9991/ch18/
+#EXTINF:-1,NBC Sports Network
+http://192.168.10.17:9991/ch19/
+#EXTINF:-1,Big Ten Network
+http://192.168.10.17:9991/ch20/
+#EXTINF:-1,FOX News
+http://192.168.10.17:9991/ch21/
+#EXTINF:-1,BBC News
+http://192.168.10.17:9991/ch22/
+#EXTINF:-1,ABC News
+http://192.168.10.17:9991/ch23/
+#EXTINF:-1,CBS News
+http://192.168.10.17:9991/ch24/
+#EXTINF:-1,Al Jazeera
+http://192.168.10.17:9991/ch25/
+#EXTINF:-1,Rock&Roll
+http://192.168.10.17:9991/ch26/
