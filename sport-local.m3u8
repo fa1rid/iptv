@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,CH1
+http://192.168.10.16:2000/
+#EXTINF:-1,CH2
+http://192.168.10.16:2001/
 #EXTINF:-1,Fox Sports 1
 http://192.168.10.17:9991/ch1/
 #EXTINF:-1,Fox Sports 2
