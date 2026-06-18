@@ -1,0 +1,23 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="Local Server",192.168.10.16:2001
+http://192.168.10.16:2001/
+#EXTINF:-1 group-title="Local Server",192.168.10.16:2002
+http://192.168.10.16:2002/
+#EXTINF:-1 group-title="Local Server",192.168.10.16:2003
+http://192.168.10.16:2003/
+#EXTINF:-1 group-title="Local Server",192.168.10.16:2004
+http://192.168.10.16:2004/
+#EXTINF:-1 group-title="Local Server",192.168.10.16:2005
+http://192.168.10.16:2005/
+
+#EXTINF:-1 group-title="Local Server",192.168.10.17:2001
+http://192.168.10.17:2001/
+#EXTINF:-1 group-title="Local Server",192.168.10.17:2002
+http://192.168.10.17:2002/
+#EXTINF:-1 group-title="Local Server",192.168.10.17:2003
+http://192.168.10.17:2003/
+#EXTINF:-1 group-title="Local Server",192.168.10.17:2004
+http://192.168.10.17:2004/
+#EXTINF:-1 group-title="Local Server",192.168.10.17:2005
+http://192.168.10.17:2005/
+
